@@ -1,0 +1,28 @@
+.Form{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 40px auto 0 40px;
+    border: 1px solid black;
+    width: 320px;
+    padding: 10px;
+}
+
+.title{
+    margin-left: 40px;
+}
+
+.button{
+    width: 120px;
+    
+}
+
+.label{
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+}
+
+.input{
+    width: 240px;
+}
